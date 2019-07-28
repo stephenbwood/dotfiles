@@ -43,6 +43,6 @@
 ! URxvt Settings
 !###############
 
-URxvt.font: xft:Iosevka:style=Regular:size=12
+URxvt.font: xft:Iosevka\ Nerd\ Font:style=Regular:size=12
 URxvt.scrollBar: false
 URxvt.internalBorder: 16
