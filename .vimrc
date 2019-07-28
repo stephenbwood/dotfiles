@@ -19,5 +19,10 @@ colorscheme base16-ocean
 syntax on
 set number
 set relativenumber
+set numberwidth=5
+highlight LineNr ctermbg=black
+
+set matchpairs
 
 let g:airline_theme='base16_ocean'
+
